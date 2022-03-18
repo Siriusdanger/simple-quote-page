@@ -1,0 +1,23 @@
+
+
+  .quote {width: 1000px;
+          margin-top: 80px}
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      body { background-image: url('assets/freedom.jpg');
+        background-repeat: no-repeat;
+        background-position: center center;
+          background-attachment: fixed;
+        }
+
+    p {text-align: center;
+       font-style: italic;}
+    
+    .text {font-size: 35px;
+           font-style: initial;
+           line-height: 1.2}
