@@ -1,19 +1,18 @@
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-  .quote {width: 1000px;
+  body { background-image: url('assets/freedom.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+      background-attachment: fixed;
+    }
+  .quote {width: 90%;
           margin-top: 80px}
 
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-
-      body { background-image: url('assets/freedom.jpg');
-        background-repeat: no-repeat;
-        background-position: center center;
-          background-attachment: fixed;
-        }
 
     p {text-align: center;
        font-style: italic;}
