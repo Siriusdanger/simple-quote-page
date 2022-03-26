@@ -21,16 +21,4 @@ body {
            font-style: initial;
            line-height: 1.2}
 
-    a {color: grey;
-    margin: 5px;
-    text-decoration: none;
-   }       
-
-    .lang {background: lightgrey;
-          width: 100px;
-          height: 30px;
-          margin-top: -250px;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          border-radius: 15px;}
+    a {color: blue;}     
